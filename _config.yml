@@ -1,7 +1,7 @@
 name: Smaply
 favicon: null
-layout_spectrum: 0.8469647660385817
-typography_spectrum: 0.6354819170664996
+layout_spectrum: 0.95672
+typography_spectrum: 0.87212
 cta:
   domain: null
   bucket: null
@@ -21,8 +21,8 @@ color:
     - '#BCAB47'
     - '#6B574B'
     - '#160600'
-  brandStrength: 0.1343090666923672
-  lightness: 0.3847486702725291
-  saturation: 0.3020648853853345
-  rhythmicContrast: 0.7042664475739002
+  brandStrength: 0.25
+  lightness: 0.3125
+  saturation: 0.4375
+  rhythmicContrast: 0.75
 purpose: []
